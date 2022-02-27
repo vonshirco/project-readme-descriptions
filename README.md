@@ -37,6 +37,9 @@ Clone this repository
  
  `$npm run start:dev`
 
+Clone this repository 
+ `$then open the html code using desired browser` 
+ 
 ### Run tests
 
 ### Deployment
