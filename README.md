@@ -1,4 +1,4 @@
-### Project Name
+# Project Name
 
 > One paragraph statement about the project.
 
