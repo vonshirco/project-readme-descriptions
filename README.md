@@ -5,3 +5,5 @@
 ![screenshot](./app_screenshot.png)
 
 ## Project Description
+
+> What the Application/Project does.
