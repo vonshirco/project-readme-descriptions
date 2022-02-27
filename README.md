@@ -62,6 +62,8 @@ Clone this repository
 Clone this repository 
  `$then open the html code using desired browser` 
  
+ For more details, please refer to the [Documentation](https://example.com)
+ 
 ### Run tests
 `$npm run test `
 
