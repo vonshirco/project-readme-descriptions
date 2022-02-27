@@ -20,6 +20,8 @@
 
 ## Getting Started
 
+> How to Install and Run the Project.
+
 ### Prerequisites
 
 ### Setup
