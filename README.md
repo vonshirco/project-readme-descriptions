@@ -13,6 +13,8 @@
 - Major languages,
 - frameworks,
 - technologies used
+-  [Next.js](https://nextjs.org/)
+-  [React.js](https://reactjs.org/)
 
 ## Live Demo
 
