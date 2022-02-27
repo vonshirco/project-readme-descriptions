@@ -41,6 +41,7 @@ Clone this repository
  `$then open the html code using desired browser` 
  
 ### Run tests
+`$npm run test `
 
 ### Deployment
 
