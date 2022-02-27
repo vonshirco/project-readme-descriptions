@@ -29,6 +29,13 @@
 ### Install
 
 ### Usage
+Clone this repository 
+ `$git clone ` 
+ navigate to the project folder then type the following command
+
+ `$npm install `
+ 
+ `$npm run start:dev`
 
 ### Run tests
 
