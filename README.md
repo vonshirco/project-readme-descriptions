@@ -16,7 +16,7 @@
 -  [Next.js](https://nextjs.org/)
 -  [React.js](https://reactjs.org/)
 
-## Live Demo
+## :link: Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
