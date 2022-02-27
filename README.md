@@ -18,7 +18,21 @@
 
 [Live Demo Link](https://livedemo.com)
 
-## Authors
+## Getting Started
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+## 👤 Author
 
 - Github: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
@@ -30,7 +44,7 @@ Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](issues/).
 
-## Kindly show your support
+## :heart: Kindly show your support
 
 Give a ⭐️ if you like this project!
 
