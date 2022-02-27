@@ -17,3 +17,11 @@
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
+
+## Authors
+
+- Github: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+
+
