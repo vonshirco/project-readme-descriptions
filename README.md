@@ -2,7 +2,6 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./mobile.png)
 ![screenshot](./app_screenshot.png)
 
 ## Project Descriptions
