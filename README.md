@@ -20,7 +20,7 @@
 
 [Live Demo Link](https://livedemo.com)
 
-## Getting Started
+## :link: Getting Started
 
 > How to Install and Run the Project.
 
