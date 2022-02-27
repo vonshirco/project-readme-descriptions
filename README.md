@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-## Project Descriptions
+## :clipboard: Project Descriptions
 
 > What the Application/Project does.
 
