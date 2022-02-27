@@ -34,7 +34,7 @@ Things you need to use the software and how to install them.
 ### Setup
 
 ### Install
-Installing and setting up the app
+Installing and setting up the app.
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
