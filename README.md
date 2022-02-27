@@ -7,3 +7,9 @@
 ## Project Descriptions
 
 > What the Application/Project does.
+
+## Built With
+
+- Major languages,
+- frameworks,
+- technologies used
