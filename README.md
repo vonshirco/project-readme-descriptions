@@ -1,19 +1,19 @@
-## Project Name
+### Project Name
 
 > One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
-### Project Descriptions
+## Project Descriptions
 
 > What the Application/Project does.
 
-### Built With
+## Built With
 
 - Major languages,
 - frameworks,
 - technologies used
 
-### Live Demo
+## Live Demo
 
 [Live Demo Link](https://livedemo.com)
